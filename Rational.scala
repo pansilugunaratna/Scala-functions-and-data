@@ -23,4 +23,4 @@ class Rational(x:Int, y:Int) {
 
         val sign = "/"
         override def toString = s"$numer$sign$denom"
-    }    
+}    
